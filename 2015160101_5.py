@@ -340,7 +340,7 @@ def main():
         else:
             break
     f.close()
-    
+    print()
     rbt.inorder(rbt.root)
     
     print("filename =",namae)#filename = 
